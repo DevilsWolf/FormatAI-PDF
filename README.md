@@ -96,8 +96,8 @@ The application is structured into several Python files:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory-name> 
+    git clone <https://github.com/DevilsWolf/FormatAI-PDF.git>
+    cd <FormatAI-PDF> 
     ```
 2.  **Create a Virtual Environment (Recommended):**
     ```bash
