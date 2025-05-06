@@ -1,0 +1,8 @@
+PyQt6
+requests
+transformers[torch]
+python-docx
+python-pptx
+reportlab
+# Optional: Add specific versions if you encounter compatibility issues
+# e.g., PyQt6==6.6.1
